@@ -3,7 +3,6 @@
 //  CGrammar
 //
 //  Created by Lucas Kim on 2023/12/30.
-//
 
 #include <stdio.h>
 
